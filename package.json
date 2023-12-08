@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "name": "ajs-11-task1-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "core-js": "^3.7.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Svetlana-Arkhipova/ajs-11-task1-2.git"
+  },
+  "author": "Svetlana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Svetlana-Arkhipova/ajs-11-task1-2/issues"
+  },
+  "homepage": "https://github.com/Svetlana-Arkhipova/ajs-11-task1-2#readme",
+  "description": ""
+}
